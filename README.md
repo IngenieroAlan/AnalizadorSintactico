@@ -1,6 +1,7 @@
-# Analizador sintáctico de Gramáticas libres de contexto.
-<br>Ingeneria en desarrollo de software<br>
-Programación de sistemas
+### Analizador sintáctico de Gramáticas libres de contexto.
+<hr>
+Ingeneria en desarrollo de software
+<br>Programación de sistemas
 <br>Brandon Alan Rodríguez Ramírez
 <br>./AnalizadorSintactico
 <br>Gramatica:<br>
